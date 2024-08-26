@@ -1,4 +1,4 @@
-# PRODIGY_DS_03
+# SCT_DS_3
 
 # 📊 Prodigy Infotech Data Science Internship
 
