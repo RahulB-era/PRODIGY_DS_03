@@ -1,7 +1,5 @@
 # SCT_DS_3
 
-# 📊 Prodigy Infotech Data Science Internship
-
 ## Task 03: Build a decision tree classifier
 
 **📄 Description**
